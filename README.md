@@ -10,10 +10,13 @@ audio files from [Freesound.org](https://freesound.org), mindful meditations fro
 It was created with [Flutter](https://flutter.dev/).
 
 ## Screenshots
-<span style="display:flex;justify-content:space-around;width:100%;">
+
+<div style="display:flex;justify-content:space-around;width:100%;">
+
 <img src="screenshots/main.jpg?raw=true" width="240" height="494" align="left">
 <img src="screenshots/settings.jpg?raw=true" width="240"  height="494" align="right">
-</span>
+
+</div>
 
 ## Features
 There aren't many.  A sleep app should get out of your way and not frustrate you.  By default, it will loop an audio file for 2 hours.
