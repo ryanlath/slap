@@ -1,0 +1,126 @@
+# Sound Credits
+
+ - [Freesound Audio](#freesound-audio)
+ - [Mindfulness Audio](#mindfulness-audio)
+ - [Noise Audio](#noise-audio)
+
+---
+
+## Freesound Audio
+From [Freesound.org](https://freesound.org/).
+
+Released under the [Creative Commons License — Attribution 3.0](https://creativecommons.org/licenses/by/3.0/).
+
+**[Abstract Ambient](https://freesound.org/people/ShadyDave/sounds/345838/)**  
+Author: [ShadyDave](https://freesound.org/people/ShadyDave/)  
+Modifications: Loopified
+
+**[Angelic](https://freesound.org/people/PhonZz/sounds/242773/)**  
+Author: [PhonZz](https://freesound.org/people/PhonZz/)  
+Modifications: Loopified
+
+**[Birds](https://freesound.org/people/maarten91/sounds/468449/)**  
+Author: [maarten91](https://freesound.org/people/maarten91/)  
+
+**[Breaking Waves on the Beach](https://freesound.org/people/reinsamba/sounds/446478/)**  
+Author: [reinsamba](https://freesound.org/people/reinsamba/)  
+Modifications: Loopified
+
+**[Crickets at Night](https://freesound.org/people/Defelozedd94/sounds/522298/)**  
+Author: [Defelozedd94](https://freesound.org/people/Defelozedd94/)  
+
+**[Evening in the Forest](https://freesound.org/people/reinsamba/sounds/18765/)**  
+Author: [reinsamba](https://freesound.org/people/reinsamba/)  
+Modifications: Removed some wind noise, loopified
+
+**[Heavy Rain](https://freesound.org/people/lebaston100/sounds/243628/)**  
+Author: [lebaston100](https://freesound.org/people/lebaston100/)  
+Modifications: Loopified
+
+**[Light Forest Rain](https://freesound.org/people/tim.kahn/sounds/169031/)**  
+Author: [tim.kahn](https://freesound.org/people/tim.kahn/)  
+
+**[Light Rain and Thunder](https://freesound.org/people/acclivity/sounds/21043/)**  
+Author: [acclivity](https://freesound.org/people/acclivity/)  
+Modifications: Loopified
+
+**[Mountain Streams](https://freesound.org/people/INNORECORDS/sounds/469009/)**  
+Author: [innorecords](https://freesound.org/people/INNORECORDS/)  
+Modifications: Loopified
+
+**[Ocean Waves - Crushing](https://freesound.org/people/Timbre/sounds/147983/)**  
+Author: [timbre](https://freesound.org/people/Timbre/)  
+Modifications: Loopified
+
+**[Rain and Rumble](https://freesound.org/people/Luftrum/sounds/58859/)**  
+Author: [Luftrum](https://freesound.org/people/Luftrum/)  
+Modifications: Loopified
+
+**[Rain Thunderstorm](https://freesound.org/people/Arctura/sounds/39828/)**  
+Author: [Arctura](https://freesound.org/people/Arctura/)  
+Modifications: Loopified
+
+**[Rainfall and Light Thunder](https://freesound.org/people/ethoma/sounds/138830/)**  
+Author: [ethoma](https://freesound.org/people/ethoma/)  
+Modifications: Loopified
+
+**[Shepard Tone](https://freesound.org/people/1urker/sounds/456929/)**  
+Author: [1urker](https://freesound.org/people/1urker/)  
+
+**[Spring Birds](https://freesound.org/people/hargissssound/sounds/345852/)**  
+Author: [hargissssound](https://freesound.org/people/hargissssound/)  
+Modifications: Removed some wind noise
+
+**[Ultimate Relaxation](https://freesound.org/people/PhonZz/sounds/263467/)**  
+Author: [PhonZz](https://freesound.org/people/PhonZz/)  
+Modifications: Loopified
+
+**[Wind Chimes](https://freesound.org/people/DudeAwesome/sounds/386470/)**  
+Author: [DudeAwesome](https://freesound.org/people/DudeAwesome/)  
+
+**[Zen Ocean Waves](https://freesound.org/people/INNORECORDS/sounds/456899/)**  
+Author: [innorecords](https://freesound.org/people/INNORECORDS/)  
+Modifications: Loopified
+
+---
+
+## Mindfulness Audio
+Most from [The Free Mindfulness Project](https://www.freemindfulness.org)
+
+Released under [Creative Commons Attribution-NonCommercial-ShareAlike License 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US)
+
+**Body Scan - Vidyamala Burch (14m)**  
+Author: [Vidyamala Burch](https://www.vidyamala-burch.com/), [Breathworks](https://www.breathworks-mindfulness.org.uk/)  
+
+**Breathing - Peter Morgan (10m)**  
+Author: Peter Morgan, [Freemindfulness](https://freemindfulness.org)  
+
+**Breathing - Padraig O'Morain (10m)**  
+Author: [Padraig O'Morain](https://www.padraigomorain.com/)  
+
+**Breathing - Vidyamala Burch (5m)**  
+Author: [Vidyamala Burch](https://www.vidyamala-burch.com/), [Breathworks](https://www.breathworks-mindfulness.org.uk/)  
+
+**Compassionate Breath - Vidyamala Burch (11m)**  
+Author: [Vidyamala Burch](https://www.vidyamala-burch.com/), [Breathworks](https://www.breathworks-mindfulness.org.uk/)  
+
+**Tension Release - Vidyamala Burch (11m)**  
+Author: [Vidyamala Burch](https://www.vidyamala-burch.com/), [Breathworks](https://www.breathworks-mindfulness.org.uk/)  
+
+---
+
+Released under [Creative Commons Attribution-NoDerivatives License 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+
+**Body Scan for Sleep - Diana Winston (14m)**  
+Author: Diana Winston, UCLA MARC's Director of [Mindfulness Education](https://www.uclahealth.org/marc/body.cfm)
+ 
+---
+
+## Noise Audio
+These were generated by the author with [Audacity](https://www.audacityteam.org/).  
+
+**Brownian Noise**  
+
+**Pink Noise**  
+
+**White Noise**  
