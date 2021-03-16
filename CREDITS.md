@@ -33,10 +33,6 @@ Author: [Defelozedd94](https://freesound.org/people/Defelozedd94/)
 Author: [reinsamba](https://freesound.org/people/reinsamba/)  
 Modifications: Removed some wind noise, loopified
 
-**[Heavy Rain](https://freesound.org/people/lebaston100/sounds/243628/)**  
-Author: [lebaston100](https://freesound.org/people/lebaston100/)  
-Modifications: Loopified
-
 **[Light Forest Rain](https://freesound.org/people/tim.kahn/sounds/169031/)**  
 Author: [tim.kahn](https://freesound.org/people/tim.kahn/)  
 
@@ -63,9 +59,6 @@ Modifications: Loopified
 **[Rainfall and Light Thunder](https://freesound.org/people/ethoma/sounds/138830/)**  
 Author: [ethoma](https://freesound.org/people/ethoma/)  
 Modifications: Loopified
-
-**[Shepard Tone](https://freesound.org/people/1urker/sounds/456929/)**  
-Author: [1urker](https://freesound.org/people/1urker/)  
 
 **[Spring Birds](https://freesound.org/people/hargissssound/sounds/345852/)**  
 Author: [hargissssound](https://freesound.org/people/hargissssound/)  
