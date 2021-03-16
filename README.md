@@ -11,15 +11,13 @@ It was created with [Flutter](https://flutter.dev/).
 
 ## Screenshots
 
-Main|Settings
--|-
-<img src="screenshots/main.jpg?raw=true" width="240" height="494" align="left">|<img src="screenshots/settings.jpg?raw=true" width="240"  height="494" align="right">
+<p float="left"><img src="screenshots/main.jpg?raw=true" width="240" height="494"> &nbsp; <img src="screenshots/settings.jpg?raw=true" width="240"  height="494">  </p>
 
 ## Features
 
 There aren't many.  A sleep app should get out of your way and not frustrate you.
- - By default, it will loop an audio file for 2 hours.
  - No ads, no quotes of the day, no nagging to share stuff
+ - By default, it will loop an audio file for 2 hours.
  - Love/Hate Items
  - Can use your own audio files
  - Open Source Software / Creative Commons Audio Files
