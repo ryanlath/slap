@@ -1,0 +1,9 @@
+apply plugin: 'com.android.asset-pack'
+
+assetPack {
+    packName = "assetsaudio"
+    dynamicDelivery {
+        //deliveryType = "install-time" <-- no file type access
+        deliveryType = "fast-follow"
+    }
+}
