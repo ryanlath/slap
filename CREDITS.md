@@ -27,7 +27,8 @@ Author: [reinsamba](https://freesound.org/people/reinsamba/)
 Modifications: Loopified
 
 **[Crickets at Night](https://freesound.org/people/Defelozedd94/sounds/522298/)**  
-Author: [Defelozedd94](https://freesound.org/people/Defelozedd94/)  
+Author: [Defelozedd94](https://freesound.org/people/Defelozedd94/)
+Modifications: Loopified 
 
 **[Evening in the Forest](https://freesound.org/people/reinsamba/sounds/18765/)**  
 Author: [reinsamba](https://freesound.org/people/reinsamba/)  
@@ -36,33 +37,21 @@ Modifications: Removed some wind noise, loopified
 **[Light Forest Rain](https://freesound.org/people/tim.kahn/sounds/169031/)**  
 Author: [tim.kahn](https://freesound.org/people/tim.kahn/)  
 
-**[Light Rain and Thunder](https://freesound.org/people/acclivity/sounds/21043/)**  
-Author: [acclivity](https://freesound.org/people/acclivity/)  
-Modifications: Loopified
-
 **[Mountain Streams](https://freesound.org/people/INNORECORDS/sounds/469009/)**  
 Author: [innorecords](https://freesound.org/people/INNORECORDS/)  
 Modifications: Loopified
 
-**[Ocean Waves - Crushing](https://freesound.org/people/Timbre/sounds/147983/)**  
-Author: [timbre](https://freesound.org/people/Timbre/)  
+**[Ocean Surf](https://freesound.org/people/INNORECORDS/sounds/456899/)**  
+Author: [innorecords](https://freesound.org/people/INNORECORDS/)  
 Modifications: Loopified
 
-**[Rain and Rumble](https://freesound.org/people/Luftrum/sounds/58859/)**  
-Author: [Luftrum](https://freesound.org/people/Luftrum/)  
-Modifications: Loopified
-
-**[Rain Thunderstorm](https://freesound.org/people/Arctura/sounds/39828/)**  
-Author: [Arctura](https://freesound.org/people/Arctura/)  
-Modifications: Loopified
-
-**[Rainfall and Light Thunder](https://freesound.org/people/ethoma/sounds/138830/)**  
+**[Rain and Distant Thunder](https://freesound.org/people/ethoma/sounds/138830/)**  
 Author: [ethoma](https://freesound.org/people/ethoma/)  
 Modifications: Loopified
 
-**[Spring Birds](https://freesound.org/people/hargissssound/sounds/345852/)**  
-Author: [hargissssound](https://freesound.org/people/hargissssound/)  
-Modifications: Removed some wind noise
+**[Summer Rain with Thunder](https://freesound.org/people/Arctura/sounds/39828/)**  
+Author: [Arctura](https://freesound.org/people/Arctura/)  
+Modifications: Loopified
 
 **[Ultimate Relaxation](https://freesound.org/people/PhonZz/sounds/263467/)**  
 Author: [PhonZz](https://freesound.org/people/PhonZz/)  
@@ -70,10 +59,6 @@ Modifications: Loopified
 
 **[Wind Chimes](https://freesound.org/people/DudeAwesome/sounds/386470/)**  
 Author: [DudeAwesome](https://freesound.org/people/DudeAwesome/)  
-
-**[Zen Ocean Waves](https://freesound.org/people/INNORECORDS/sounds/456899/)**  
-Author: [innorecords](https://freesound.org/people/INNORECORDS/)  
-Modifications: Loopified
 
 ---
 
