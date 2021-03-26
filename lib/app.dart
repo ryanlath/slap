@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 import 'dart:io';
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
@@ -15,6 +16,7 @@ import 'package:slap/audio_player.dart';
 import 'package:slap/models.dart';
 import 'package:slap/screens/home.dart';
 import 'package:slap/screens/settings.dart';
+
 
 class SlapApp extends StatefulWidget {
   final FlutterKeyValueStore kvs;
@@ -46,17 +48,17 @@ class SlapAppState extends State<SlapApp> {
     hateIDs = widget.kvs.getStringList('hateIDs') ?? List<String>();
 
     //TODO: find better way
+    //TODO: make "loading assets...???  first time only?"
     getAssetPackDirectory().then((assetPackDirectory) {
-      _assetPackDirectory = assetPackDirectory;
-
+      _assetPackDirectory = assetPackDirectory;  
+      
       getStorageDirectory().then((storageDirectory) {
         _storageDirectory = storageDirectory;
 
         getVersion().then((version) {
           _version = version;
 
-          loadMediaItems(loveIDs, hateIDs).then((loadedItems) {
-
+          loadMediaItems(loveIDs, hateIDs, _assetPackDirectory).then((loadedItems) {
             setState(() {
               appState = AppState(
                 version: _version,
@@ -126,8 +128,8 @@ class SlapAppState extends State<SlapApp> {
       final String result = await methodChannel.invokeMethod('getAssetPackDirectory', 'assetsaudio');
       assetPackDirectory = result;
     } catch(e)  {
-      print("TODO: getAssetPackDirectory failed");
-      print(e);
+      debugPrint('SlapMain : failed:'+e.toString());
+      // throw Exception() ?
     }
     return assetPackDirectory;
   }
@@ -367,14 +369,14 @@ class SlapAppState extends State<SlapApp> {
   }
 
   void reloadFiles() {
-    loadMediaItems(appState.loveIDs, appState.hateIDs, reload:true).then((loadedItems) {
+    loadMediaItems(appState.loveIDs, appState.hateIDs, appState.assetPackDirectory, reload:true).then((loadedItems) {
       setState(() {
         appState.mediaItems = loadedItems;
       });
     });
   }
 
-  Future <List<SleepItem>> loadMediaItems(loveIDs, hateIDs, {reload: false}) async {
+  Future <List<SleepItem>> loadMediaItems(loveIDs, hateIDs, assetPackDirectory, {reload: false}) async {
     List<SleepItem> mediaItems;
 
     final init =  widget.kvs.getBool('initialized') ?? false;
@@ -408,15 +410,18 @@ class SlapAppState extends State<SlapApp> {
       storageFiles.add(file.path);
     }
 
-    String assetPackDirectory = appState.assetPackDirectory;
-
+    //String assetPackDirectory = appState.assetPackDirectory;
     if (assetPackDirectory != null) {
+       debugPrint('SlapMain : assetPackDirectory:'+assetPackDirectory);
+
       Directory packDir = Directory(assetPackDirectory);
 
       files = packDir.list(recursive: true, followLinks: false);
       await for (FileSystemEntity file in files) {
         storageFiles.add(file.path);
       }
+    } else {
+      debugPrint('SlapMain : AP is NULL!');
     }
 
     mediaItems = [
