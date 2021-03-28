@@ -1,5 +1,5 @@
 name: slap
-version: 1.0.0+3
+version: 1.0.1+4
 description: >-
   Sleep like a Pancake! (slap) is a simple, open source, ad-free, mildly-mindful sleep sound 
   app utilizing audio files from Freesound.org, mindful meditations from 
@@ -42,6 +42,7 @@ flutter:
   uses-material-design: true
 
   assets:
+    - assets/audio/Mindfulness/
     - assets/audio/Nature/
     - assets/audio/Noise/
     - assets/audio/Rain/
