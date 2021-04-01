@@ -9,6 +9,10 @@ audio files from [Freesound.org](https://freesound.org), mindful meditations fro
 
 It was created with [Flutter](https://flutter.dev/).
 
+## Download
+
+Android: [GooglePlay](https://play.google.com/store/apps/details?id=org.pancake.slap)
+
 ## Screenshots
 
 <p float="left"><img src="screenshots/main.jpg?raw=true" width="240" height="494"> &nbsp; <img src="screenshots/settings.jpg?raw=true" width="240"  height="494">  </p>
