@@ -27,7 +27,7 @@ Author: [reinsamba](https://freesound.org/people/reinsamba/)
 Modifications: Loopified
 
 **[Crickets at Night](https://freesound.org/people/Defelozedd94/sounds/522298/)**  
-Author: [Defelozedd94](https://freesound.org/people/Defelozedd94/)
+Author: [Defelozedd94](https://freesound.org/people/Defelozedd94/)  
 Modifications: Loopified 
 
 **[Evening in the Forest](https://freesound.org/people/reinsamba/sounds/18765/)**  
